@@ -1,0 +1,27 @@
+
+i{
+    background-color: #FFC300 ;
+    color:beige;
+    font-size: 60px;
+}
+
+.services
+{
+    
+    width: 100%;
+    text-align: center;  
+    
+}
+.service{
+    float: left;
+    width: 30%;
+    
+
+}
+.clearfix{
+    clear: both;
+}
+.services p{
+    font-style: italic;
+    color: grey;
+}
